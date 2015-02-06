@@ -1,6 +1,12 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: About
+  url: /about/
+  excerpt: "Who wouldn't want to know a bit more about me?"
+  image: 300x200.gif
+
+
+- title: Raikes
+  url: http://raikes.unl.edu
+  excerpt: "A fantastic place to live, study, and grow."
+  image: 300x200.gif
