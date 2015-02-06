@@ -5,6 +5,10 @@
   excerpt: "Who wouldn't want to know a bit more about me?"
   image: 300x200.gif
 
+- title: Helpful Links
+  url: /links/
+  excerpt: "Essential Links to Java Success. And Passing CS."
+  image: 300x200.gif
 
 - title: Raikes
   url: http://raikes.unl.edu
