@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title:
-description:
-logo: # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
+title: Daric Teske
+description: "Quite Possibly the Greatest Site You Will Ever Visit."
+logo:  120x120 px #default image used for Twitter summary card
+teaser: 400x250 px #default teaser image used in image archive grid
 locale:
-url:
+url: http://dteske.me
 
 # Jekyll configuration
 
