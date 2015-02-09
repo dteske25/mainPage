@@ -1,16 +1,20 @@
 # Site navigation links
+- title: Home
+  url: /
+  excerpt:
+  image: preview1.png
 
 - title: About
   url: /about/
-  excerpt: "Who wouldn't want to know a bit more about me?"
-  image: 300x200.gif
+  excerpt: "Who Am I?"
+  image: preview2.png
 
 - title: Helpful Links
   url: /links/
-  excerpt: "Essential Links to Java Success. And Passing CS."
+  excerpt: "Some Helpful Links That You May Need."
   image: 300x200.gif
 
 - title: Raikes
   url: http://raikes.unl.edu
   excerpt: "A fantastic place to live, study, and grow."
-  image: 300x200.gif
+  image: preview3.png
