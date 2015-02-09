@@ -10,6 +10,7 @@ image:
 
 My name is Daric Teske, and I am a freshman computer science major. I really enjoy working with computers and
 technology. I have worked with a number of programming and scripting languages including:
+
 * Java
 * C#
 * PHP
