@@ -27,7 +27,7 @@ various distributions of Linux Servers.
 ##About My Projects
 
 Projects. Yeah. Those. I have them. But you can't see them. Sorry, academic integrity policy and all.
-Go to [this site](http://kauffman.club/~dteske/) though. Projects are up and running, some are 3D models in Unity!
+Go to [this site](http://kauffman.club/~dteske/) though. Some projects that I can show are up and running, some are even 3D models in Unity!
 The website isn't the prettiest, you will have to do some directory navigation. If you want to preview something, just
 open the `.html` or `.php` file in the correct folder, and you will be able to test it out. Enjoy!
 
