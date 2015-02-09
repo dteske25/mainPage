@@ -37,6 +37,6 @@ on various projects throughout the school year, troubleshooting and preparing cl
 well as configuring new devices and repairing hardware. Over the summer, I was asked to come in and work full-time
 with the department on larger projects, such as configuring Chromebooks for the 1:1 initiative that began in 2013.
 Another project that I worked on was setting up a server to handle large-scale cloning of devices over the network.
-As my high school was almost completely Apple based, we used a program called [Deploy Studio](http://www.deploystudio.com/home.html)
+As my high school was almost completely Apple based, we used a program called [Deploy Studio](http://www.deploystudio.com)
 on a Mac Server. I have also worked with Active Directory services on a Windows Server through both my high school and
 the IT-Olympics that I mentioned in the About Me section.
