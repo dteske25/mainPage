@@ -2,8 +2,7 @@
 layout: archive
 permalink: /
 title: "Home"
-image:
-	feature:FeaturedImage1.png
+image:feature:FeaturedImage1.png
 ---
 
 <div class="tiles">
