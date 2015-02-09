@@ -2,11 +2,13 @@
 layout: archive
 permalink: /links/
 title: "Helpful Links"
+image:
+  feature: FeaturedImage3.png
 ---
 
 ## Java Resources
 
-When you begin your homework, it will be essential to check the API. Java has so many built-in functionalities to help you solve your problem. You just have to know where to find them. 
+When you begin your homework, it will be essential to check the API. Java has so many built-in functionalities to help you solve your problem. You just have to know where to find them.
 
 [Java API](http://docs.oracle.com/javase/7/docs/api)
 
