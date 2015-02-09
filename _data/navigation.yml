@@ -1,15 +1,15 @@
 # Site navigation links
 - title: Home
   url: /
-  excerpt:
+  excerpt: A Great Place to Start
   image: preview1.png
 
 - title: About
   url: /about/
-  excerpt: "Who Am I?"
+  excerpt: "Who am I?"
   image: preview2.png
 
 - title: Helpful Links
   url: /links/
-  excerpt: "Some Helpful Links That You May Need."
+  excerpt: "Some Helpful Links that You May Need."
   image: preview3.png
