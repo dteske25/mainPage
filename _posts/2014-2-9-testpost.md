@@ -1,6 +1,7 @@
 ---
 layout: article
 title: "Testing Post"
+categories: "post"
 ---
 
 #Just Testing to see if this words correctly.
