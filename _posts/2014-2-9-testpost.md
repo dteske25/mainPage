@@ -1,6 +1,6 @@
 ---
 title: Testing Post
-layout: post
+layout: article
 ---
 
 #Just Testing to see if this words correctly.
