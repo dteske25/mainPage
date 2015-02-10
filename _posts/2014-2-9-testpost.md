@@ -1,6 +1,8 @@
 ---
 layout: article
 title: "Testing Post"
+image:
+  feature: FeaturedImage2.png
 ---
 
 #Just Testing to see if this words correctly.
