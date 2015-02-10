@@ -1,6 +1,6 @@
 ---
-title: Testing Post
 layout: article
+title: "Testing Post"
 ---
 
 #Just Testing to see if this words correctly.
