@@ -6,12 +6,7 @@ image:
   feature: FeaturedImage3.png
 ---
 
-## Java Resources
-
-When you begin your homework, it will be essential to check the API. Java has so many built-in functionalities to help you solve your problem. You just have to know where to find them.
-
-[Java API](http://docs.oracle.com/javase/7/docs/api)
-
+## Coding Resources
 
 Great for learning HTML, CSS, PHP, and JavaScript
 
@@ -27,4 +22,4 @@ Catalog for greatly discounted products from Microsoft, including Visual Studio,
 
 [GitHub Student Dev Pack](http://education.github.com/pack)
 
-A new product for students, with amazing free features, such as paid accounts to services like GitHub, Orchestrate, Unreal Engine, plus a load of other deals. All you need is a @husker.unl.edu email account!
+A new product for students, with amazing free features, such as paid accounts to services like GitHub, Orchestrate, Unreal Engine, plus a load of other deals. All you need is a @husker.unl.edu (or any other `.edu`) email account!
