@@ -1,6 +1,6 @@
 ---
 layout: "article"
-title: "Template"
+title: "Helpful Unix Tricks"
 date: "2015-02-12"
 categories: "post"
 excerpt: "Want to know more about Unix? This is your one stop shop."
