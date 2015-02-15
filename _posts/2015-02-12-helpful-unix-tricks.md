@@ -34,7 +34,7 @@ of a Unix based operating system.
 * `chmod` - Changes permissions of the files or directories. The important ones are `chmod 700 filename`, `chmod 755 filename`, and `chmod 777 filename`
 * `rm` - Remove! This will delete files. Used as `rm filename`
 * `rmdir` - This will remove an empty directory. Used as `rmdir emptyDirectory`
-* `sudo` - This is the command to give you administrator rights to a system. Use only if you actually know the admin password. This works by simply including the command infront of any other command you do not have permission to run as a standard user.
+* `sudo` - This is the command to give you administrator rights to a system. Use only if you actually know the admin password. This works by simply including the command in front of any other command you do not have permission to run as a standard user.
 * `apt-get install` - App libraries that allow you to automatically install new programs and commands from a dedicated server. Usually needs `sudo`. Use as `sudo apt-get install programName`.
 * `passwd` - this will allow you to change your password
 * `exit` - This command will log you out.
