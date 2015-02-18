@@ -20,10 +20,10 @@ gems:
 
 
 # Site owner
-owner:
-  name:
-  email:
-  twitter:
+owner: Daric Teske
+  name: Daric Teske
+  email: info@dteske.me
+  twitter: 
   google:
     ad-client:
     ad-slot:
